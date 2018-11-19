@@ -1,0 +1,22 @@
+.Header{
+    list-style-type: none;
+    margin: 0 auto;
+    display: flex;
+    background-color: #08589B;
+    color: white;
+    justify-content: flex-end;
+    font-size: 14px;
+    padding: 0 20px 0 0;
+    
+}
+
+.HeaderList{
+    padding: 0 20px 0 0;
+}
+.inventicons_29 {
+    background-image: url(./../../img/inventicons_29.png);
+    width: 27px;
+    height: 31px;
+    z-index: 18;
+  }
+  
